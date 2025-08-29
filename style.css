@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: black;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+}
+
+ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+h1{
+    font-family: Inter;
+font-weight: 500;
+font-style: Medium;
+font-size: 88px;
+line-height: 93px;
+letter-spacing: 0%;
+text-align: center;
+width: 743px;
+margin: 114px auto;
+}
+
+.card{
+width: 393px;
+height: 396px;
+border-radius: 20px;
+}
+.section-two{
+display: flex;
+flex-wrap: wrap;
+gap: 30px;
+justify-content: space-between;
+
+}
+    
+.h3{
+font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 28px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+
+.p{
+font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
